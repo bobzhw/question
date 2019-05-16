@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="树的最小深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate-reverse-polish-notation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表的排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表插入排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树先序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树后序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树层次遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reorderlist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表环入口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表是否有环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分词bool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分词2-递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="拷贝含有random指针的链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="single number-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="single number-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="糖果问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gas station加油站.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无向图复制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树中序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="拆分回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="surrounded regions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="根节点到叶节点求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长连续序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="词语阶梯--最短长度的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断字符串是否回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树最大路径之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="买卖最大利益--最多2轮交易.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="买卖最大利益--交易无限次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="买卖最大利益--一轮交易.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pascals-triangle -1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pascals-triangle-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="populating next right pointers in each node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="distinct-subsequence   不同子序列（动态规划）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树的路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树的路径和2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="堆算法！！！！.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有序数组转换为高度平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树层次遍历2--从下往上.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树Z字形层次遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树最大深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中序后序构建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="先序中序构建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="对称树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="same-tree判断树是否相等.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recover BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是不是排序二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="interleaving string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-binary-search-trees-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-binary-search-trees-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="restore-ip-address.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表对m到n的链表逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="decode-ways解码方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gray-code.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="merge-sorted-array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scramble-string爬行字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="partition-list分割链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximal retangle最大矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大矩形直方图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除链表重复元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除链表重复元素2（删除全部）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除数组重复元素（允许出现2次）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search in rotated sorted array在旋转有序数组中搜索.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search in rotated sorted array2(允许重复).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="two-sums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="three-sums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="word-search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subsets2子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subsets1子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combinations组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-window-substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search-a-2d-martix矩阵中查询元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort-colors颜色排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set-matrix-zeroes将矩阵置零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="edit-distance词语转换最小步数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="simplify-path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="climbing-stairs爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrtx平方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="text-justification文本对齐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plus-one.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="valid-number 有效数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add-binary二进制求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="merge-two-sorted-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-path-sum最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-path唯一路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-path唯一路径2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutation-sequence序列组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sprial-matrix螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="spiral-matrix2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Length_of_last_word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="insert_interval插入区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="merge-interval合并区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jump-game跳跃游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
