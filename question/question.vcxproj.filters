@@ -300,5 +300,23 @@
     <ClCompile Include="jump-game跳跃游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="maximum-subarray最大子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n-queensn皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n-queensn皇后2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="powx-n求次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Group-anagrams回文构词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate-image旋转图像.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
